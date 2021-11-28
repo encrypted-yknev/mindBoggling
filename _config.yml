@@ -1,1 +1,19 @@
-theme: jekyll-theme-cayman
+title: <p align="center"> Venkateshan N </p>
+logo: /assets/img/logo.png
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/venkateshan1993/">LinkedIn</a> |
+  <a href="https://github.com/encrypted-yknev">GitHub</a>
+  
+  <br>   
+    A software developer with 6 years of experience in IT industry.
+    Passionate about learning Machine Learning and Data science.
+    Loves to travel and play table tennis
+  <br>
+  </p>
+
+
+
+theme: jekyll-theme-minimal
