@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Mind Boggling Problems
 
-You can use the [editor on GitHub](https://github.com/encrypted-yknev/mindBoggling/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A challenge statement is a description of your problem in a way that you are able to solve for it. It speaks to the urgency of the problem, is a call-to-action for others to be involved and inspires hope for change. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A problem statement should describe an undesirable gap between the current-state level of performance and the desired future-state level of performance. A problem statement should include absolute or relative measures of the problem that quantify that gap, but should not include possible causes or solutions!
 
-### Markdown
+### It's Mind-boggling
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A problem statement should describe an undesirable gap between the current-state level of performance and the desired future-state level of performance. A problem statement should include absolute or relative measures of the problem that quantify that gap, but should not include possible causes or solutions!
 
-```markdown
-Syntax highlighted code block
+## Problems
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/encrypted-yknev/mindBoggling/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Egg dropping puzzle
+- Candle and rope
+- Ants in a triangle
